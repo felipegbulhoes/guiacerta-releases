@@ -1,0 +1,18 @@
+{
+  "versao": 1,
+  "padrao": {
+    "pix_chave": "fda1e9a1-4de8-49da-ba34-05e3cd1433c9",
+    "pix_nome": "Felipe Gomes Bulhoes",
+    "pix_cidade": "OLINDA",
+    "whatsapp": "5581997375599",
+    "valor": "600.00",
+    "aviso_dias": 7
+  },
+  "clientes": {
+    "8a0f24aef9539daa": {
+      "validade": "2026-09-30",
+      "valor": "600.00"
+    }
+  },
+  "atualizado_em": "2026-09-24"
+}
